@@ -1,6 +1,6 @@
 ## CodeOrg
 
-[Minecraft Designer] (https://studio.code.org/sections/YYVZCP)
+[Minecraft Designer](https://studio.code.org/sections/YYVZCP)
 
 ## Biber Aufgaben
 
