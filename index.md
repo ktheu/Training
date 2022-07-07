@@ -1,6 +1,6 @@
 ## CodeOrg
 
-[Minecraft Designer](https://studio.code.org/sections/YYVZCP)
+[Code.org](https://studio.code.org/sections/YYVZCP)
 
 [Blockly Games](https://blockly.games/?lang=de)
 
