@@ -1,8 +1,8 @@
-## CodeOrg
+<!-- ## CodeOrg
 
 [Code.org](https://studio.code.org/sections/YYVZCP)
 
-[Blockly Games](https://blockly.games/?lang=de)
+[Blockly Games](https://blockly.games/?lang=de) -->
 
 ## Biber Aufgaben
 
