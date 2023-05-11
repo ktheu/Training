@@ -29,3 +29,7 @@ Verfahren für den Download und Aufruf von Jupyter Notebooks:
   
 [range](https://github.com/ktheu/Training/blob/master/range.ipynb)
 
+[strings01](https://github.com/ktheu/Training/blob/master/strings01.ipynb)
+
+[listens01](https://github.com/ktheu/Training/blob/master/listen01.ipynb)
+
