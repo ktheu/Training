@@ -48,7 +48,7 @@ Verfahren für den Download und Aufruf von Jupyter Notebooks:
 
 ### Codingame (Clash of Code) - [Search](https://codingame.tools/)
 
-- [AlphaBinaryConsecutivism](https://www.codingame.com/ide/demo/9199892766710c114e06aebebe23a551b181a7)**
+- [AlphaBinaryConsecutivism](https://www.codingame.com/ide/demo/9199892766710c114e06aebebe23a551b181a7)
 - [Round and round we go](https://www.codingame.com/ide/demo/873603c1e90bf4ae0082e0301f7b7127c77732)
 - [Mom's code](https://www.codingame.com/ide/demo/8962442d406fb7eb156976c3f6395c9cf39399)
 - [Color Codes](https://www.codingame.com/ide/demo/840248a983d4c0e0597d9f62a5333421698c05)
