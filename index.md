@@ -34,3 +34,12 @@ Verfahren für den Download und Aufruf von Jupyter Notebooks:
 [strings01](https://github.com/ktheu/Training/blob/master/strings01.ipynb) -
 [listen01](https://github.com/ktheu/Training/blob/master/listen01.ipynb)
 
+---
+
+### Replit
+
+**[Uebung01](https://replit.com/teams/join/gfqmlkfosjwreymbzggsqasfironqrzk-Uebung01)**  - Eingabe mit Input  
+
+**[Problems01](https://replit.com/teams/join/rwakwbrblvkwmttibbgkyxvqxbxtxtga-Problems01)** 
+
+**[Problems02](https://replit.com/teams/join/gyahpukiufxyrnfbmhswmzmvlniyfmwu-Problems02)**
