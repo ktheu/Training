@@ -38,8 +38,26 @@ Verfahren für den Download und Aufruf von Jupyter Notebooks:
 
 ### Replit
 
-**[Uebung01](https://replit.com/teams/join/gfqmlkfosjwreymbzggsqasfironqrzk-Uebung01)**  - Eingabe mit Input  
+**[Uebung01](https://replit.com/teams/join/gfqmlkfosjwreymbzggsqasfironqrzk-Uebung01)** - Eingabe mit Input  
 
 **[Problems01](https://replit.com/teams/join/rwakwbrblvkwmttibbgkyxvqxbxtxtga-Problems01)** 
 
 **[Problems02](https://replit.com/teams/join/gyahpukiufxyrnfbmhswmzmvlniyfmwu-Problems02)**
+
+---
+
+### Codingame (Puzzles)
+
+
+
+
+
+---
+
+### Codingame (Clash of Code)
+
+**[AlphaBinaryConsecutivism](https://www.codingame.com/ide/demo/9199892766710c114e06aebebe23a551b181a7)**
+
+
+
+
