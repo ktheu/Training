@@ -33,7 +33,9 @@ Verfahren für den Download und Aufruf von Jupyter Notebooks:
 [range](https://github.com/ktheu/Training/blob/master/range.ipynb) -
 [strings01](https://github.com/ktheu/Training/blob/master/strings01.ipynb) -
 [listen01](https://github.com/ktheu/Training/blob/master/listen01.ipynb) -
-[random](https://github.com/ktheu/Training/blob/master/random.ipynb)
+[random](https://github.com/ktheu/Training/blob/master/random.ipynb) -
+[list-comprehension](https://github.com/ktheu/Training/blob/master/listcomprehensions.ipynb) -
+[tuples](https://github.com/ktheu/Training/blob/master/tuples.ipynb) -
 [listen02](https://github.com/ktheu/Training/blob/master/liste02.ipynb)
 
 ---
