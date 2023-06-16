@@ -38,7 +38,7 @@ Verfahren für den Download und Aufruf von Jupyter Notebooks:
 [tuples](https://github.com/ktheu/Training/blob/master/tuples.ipynb) -
 [listen02](https://github.com/ktheu/Training/blob/master/liste02.ipynb) -
 [dicts](https://github.com/ktheu/Training/blob/master/dicts.ipynb) -
-[einlesen](https://github.com/ktheu/Training/blob/master/dicts.ipynb)
+[einlesen](https://github.com/ktheu/Training/blob/master/einlesen.ipynb)
 
 ---
 
