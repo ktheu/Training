@@ -85,15 +85,7 @@ Verfahren für den Download und Aufruf von Jupyter Notebooks:
 - [Fantastic Bits](https://www.codingame.com/multiplayer/bot-programming/fantastic-bits)
 - [Mad Pod Racing](https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing)
 
-### Jugendwettbewerb Informatik - Runde 3
 
-siehe AlgorithmenAG
-
----
-### [Bundeswettbewerb Informatik](https://bwinf.de/)
-
----
-Weitere Aufgabensammlungen: siehe AlgorithmenAG - Competitive Programming
 
 
 
