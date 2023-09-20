@@ -21,13 +21,17 @@ Gib in deinem CSCircles-Profile unter *Guru's username* den Namen *Jellow42* ein
 
 Verfahren für den Download und Aufruf von Jupyter Notebooks:
 ```
-1. Klick auf den Link
-2. In der Zeile, in der die lines stehen, auf Raw clicken
-3. Rechtsclick + Link speichern unter .... , die Dateiendung auf .ipynb ändern.
-4. Download 'In Ordner anzeigen'
-5. In dem angezeigten Ordner KEINE Datei selektieren, Umschalt + Rechtsclick
-6. PowerShell (oder CMD) Fenster hier öffnen 
-7. jupyter lab
+1. Klick auf den Link mit der rechten Maustaste
+2. Link speichern unter ....
+3. zum gewünschten Ordner navigieren und auf speichern klicken.
+```
+
+Verfahren für den Aufruf von Jupyter Notebooks:
+```
+1. Im Datei-Explorer in den Ordner mit den Notebooks gehen und  KEINE Datei selektieren
+2. Shift + Rechtsclick
+3. In Terminal oder PowerShell öffnen 
+4. jupyter lab
 ```
   
 <!-- [range](https://github.com/ktheu/Training/blob/master/range.ipynb) -
@@ -41,16 +45,16 @@ Verfahren für den Download und Aufruf von Jupyter Notebooks:
 [einlesen](https://github.com/ktheu/Training/blob/master/einlesen.ipynb) - 
 [grids](https://github.com/ktheu/Training/blob/master/grids.ipynb) -  -->
 
-[range](./range.ipynb) 
-[strings01](https://github.com/ktheu/Training/blob/master/strings01.ipynb) -
-[listen01](https://github.com/ktheu/Training/blob/master/listen01.ipynb) -
-[random](https://github.com/ktheu/Training/blob/master/random.ipynb) -
-[list-comprehension](https://github.com/ktheu/Training/blob/master/listcomprehensions.ipynb) -
-[tuples](https://github.com/ktheu/Training/blob/master/tuples.ipynb) -
-[listen02](https://github.com/ktheu/Training/blob/master/listen02.ipynb) -
-[dicts](https://github.com/ktheu/Training/blob/master/dicts.ipynb) -
-[einlesen](https://github.com/ktheu/Training/blob/master/einlesen.ipynb) - 
-[grids](https://github.com/ktheu/Training/blob/master/grids.ipynb) 
+[range](./range.ipynb) -
+[strings01](./strings01.ipynb) -
+[listen01](./listen01.ipynb) -
+[random](./random.ipynb) -
+[list-comprehension](./listcomprehensions.ipynb) -
+[tuples](./tuples.ipynb) -
+[listen02](./listen02.ipynb) -
+[dicts](./dicts.ipynb) -
+[einlesen](./einlesen.ipynb) - 
+[grids](./grids.ipynb) 
 
 ---
 
