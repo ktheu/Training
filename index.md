@@ -21,7 +21,7 @@ Gib in deinem CSCircles-Profile unter *Guru's username* den Namen *Jellow42* ein
 
 Verfahren für den Download und Aufruf von Jupyter Notebooks:
 ```
-1. Klick auf den Link mit der rechten Maustaste
+1. Klick auf den Download-Link mit der rechten Maustaste
 2. Link speichern unter ....
 3. zum gewünschten Ordner navigieren und auf speichern klicken.
 ```
