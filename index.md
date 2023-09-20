@@ -34,18 +34,18 @@ Verfahren für den Aufruf von Jupyter Notebooks:
 4. jupyter lab
 ```
   
-<!-- [range](https://github.com/ktheu/Training/blob/master/range.ipynb) -
-[strings01](https://github.com/ktheu/Training/blob/master/strings01.ipynb) -
-[listen01](https://github.com/ktheu/Training/blob/master/listen01.ipynb) -
-[random](https://github.com/ktheu/Training/blob/master/random.ipynb) -
-[list-comprehension](https://github.com/ktheu/Training/blob/master/listcomprehensions.ipynb) -
-[tuples](https://github.com/ktheu/Training/blob/master/tuples.ipynb) -
-[listen02](https://github.com/ktheu/Training/blob/master/listen02.ipynb) -
-[dicts](https://github.com/ktheu/Training/blob/master/dicts.ipynb) -
-[einlesen](https://github.com/ktheu/Training/blob/master/einlesen.ipynb) - 
-[grids](https://github.com/ktheu/Training/blob/master/grids.ipynb) -  -->
+[range](https://github.com/ktheu/Training/blob/master/range.ipynb) - [download](./range.ipynb) <br>
+[strings01](https://github.com/ktheu/Training/blob/master/strings01.ipynb) - [download](./strings01.ipynb) <br>
+[listen01](https://github.com/ktheu/Training/blob/master/listen01.ipynb) - [download](./listen01.ipynb) <br>
+[random](https://github.com/ktheu/Training/blob/master/random.ipynb) - [download](./random.ipynb) <br>
+[list-comprehension](https://github.com/ktheu/Training/blob/master/listcomprehensions.ipynb) - [download](./listcomprehensions.ipynb) <br>
+[tuples](https://github.com/ktheu/Training/blob/master/tuples.ipynb) - [download](./tuples.ipynb) <br>
+[listen02](https://github.com/ktheu/Training/blob/master/listen02.ipynb) - [download](./listen02.ipynb) <br>
+[dicts](https://github.com/ktheu/Training/blob/master/dicts.ipynb) - [download](./dicts.ipynb) <br>
+[einlesen](https://github.com/ktheu/Training/blob/master/einlesen.ipynb) - [download](./einlesen.ipynb) <br>
+[grids](https://github.com/ktheu/Training/blob/master/grids.ipynb) - [download](./grids.ipynb) <br>
 
-[range](./range.ipynb) -
+<!-- [range](./range.ipynb) -
 [strings01](./strings01.ipynb) -
 [listen01](./listen01.ipynb) -
 [random](./random.ipynb) -
@@ -54,7 +54,7 @@ Verfahren für den Aufruf von Jupyter Notebooks:
 [listen02](./listen02.ipynb) -
 [dicts](./dicts.ipynb) -
 [einlesen](./einlesen.ipynb) - 
-[grids](./grids.ipynb) 
+[grids](./grids.ipynb)  -->
 
 ---
 
