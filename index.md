@@ -30,7 +30,7 @@ Verfahren für den Download und Aufruf von Jupyter Notebooks:
 7. jupyter lab
 ```
   
-[range](https://github.com/ktheu/Training/blob/master/range.ipynb) -
+<!-- [range](https://github.com/ktheu/Training/blob/master/range.ipynb) -
 [strings01](https://github.com/ktheu/Training/blob/master/strings01.ipynb) -
 [listen01](https://github.com/ktheu/Training/blob/master/listen01.ipynb) -
 [random](https://github.com/ktheu/Training/blob/master/random.ipynb) -
@@ -39,7 +39,18 @@ Verfahren für den Download und Aufruf von Jupyter Notebooks:
 [listen02](https://github.com/ktheu/Training/blob/master/listen02.ipynb) -
 [dicts](https://github.com/ktheu/Training/blob/master/dicts.ipynb) -
 [einlesen](https://github.com/ktheu/Training/blob/master/einlesen.ipynb) - 
-[grids](https://github.com/ktheu/Training/blob/master/grids.ipynb) - 
+[grids](https://github.com/ktheu/Training/blob/master/grids.ipynb) -  -->
+
+[range](./range.ipynb) 
+[strings01](https://github.com/ktheu/Training/blob/master/strings01.ipynb) -
+[listen01](https://github.com/ktheu/Training/blob/master/listen01.ipynb) -
+[random](https://github.com/ktheu/Training/blob/master/random.ipynb) -
+[list-comprehension](https://github.com/ktheu/Training/blob/master/listcomprehensions.ipynb) -
+[tuples](https://github.com/ktheu/Training/blob/master/tuples.ipynb) -
+[listen02](https://github.com/ktheu/Training/blob/master/listen02.ipynb) -
+[dicts](https://github.com/ktheu/Training/blob/master/dicts.ipynb) -
+[einlesen](https://github.com/ktheu/Training/blob/master/einlesen.ipynb) - 
+[grids](https://github.com/ktheu/Training/blob/master/grids.ipynb) 
 
 ---
 
