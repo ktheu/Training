@@ -33,9 +33,9 @@ Verfahren für den Aufruf von Jupyter Notebooks:
 3. In Terminal oder PowerShell öffnen 
 4. jupyter lab
 ```
-  
+ 
 [range](https://nbviewer.org/github/ktheu/Training/blob/main/range.ipynb) - [download](./range.ipynb) <br>
-[strings01](https://nbviewer.org/github/ktheu/Training/blob/main/string01.ipynb) - [download](./strings01.ipynb) <br>
+[strings01](https://nbviewer.org/github/ktheu/Training/blob/main/strings01.ipynb) - [download](./strings01.ipynb) <br>
 [listen01](https://github.com/ktheu/Training/blob/master/listen01.ipynb) - [download](./listen01.ipynb) <br>
 [random](https://github.com/ktheu/Training/blob/master/random.ipynb) - [download](./random.ipynb) <br>
 [list-comprehension](https://github.com/ktheu/Training/blob/master/listcomprehensions.ipynb) - [download](./listcomprehensions.ipynb) <br>
