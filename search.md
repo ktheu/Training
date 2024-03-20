@@ -36,7 +36,73 @@ Lösche erstes Zeichen von OMOMM
 Lösche letztes Zeichen von MOMM
 Ändere letztes Zeichen von MOM auf O
 MOO
+```
 
 
+#### Aufgabe: Die Girlande
 
+Eine Girlande besteht aus Lampen, die vier verschiedene Farben haben können. Ein String s der Länge 4 und nur die Zeichen 1 bis 4 enthält, stellt eine Girlande dar.
+
+```
+# Beispiel:
+s = '1211'     # Girlande besteht aus 1 Lampe mit Farbe 1, 1 Lampe mit Farbe 2, dann wieder 2 Lampen mit Farbe 1
+```
+
+Zu Beginn sind alle Lampen ausgeschaltet. Wir können beliebig oft folgende Operation durchführen:
+Wähle eine Lampe und ändere ihren Status (aus 'An' mache 'Aus' und umgekehrt). Die nächste Operation darf aber nur an einer Lampe ausgeführt werden, die eine andere Farbe hat. 
+
+Berechne die minimale Anzahl der Operationen, die wir benötigen, um alle Lampen der Girlande anzuschalten und beschreibe eine mögliche Lösung.
+Gib -1 aus, wenn es nicht geht.
+
+```
+# In den Ausgabe ist die Lampe 1 die erste Lampe usw.
+# Beispiel1:
+s='1211'
+Anzahl Operationen: 6
+Lampe 1 ein
+Lampe 2 ein
+Lampe 3 ein
+Lampe 2 aus
+Lampe 4 ein
+Lampe 2 ein
+
+# Beispiel2:
+s='1111'
+-1
+
+# Beispiel3:
+s='1231'
+Anzahl Operationen: 4
+Lampe 1 ein
+Lampe 2 ein
+Lampe 3 ein
+Lampe 4 ein
+```
+
+#### Aufgabe: Tubes
+
+Gegeben sind zwei nicht leere Strings s1, s2 und ein leerer String s3. s1 und s2 bestehen nur aus '1' und '2', jede dieser Zeichen kommt insgesamt mindestens einmal vor. Ein Spielzug besteht darin, das letzte Zeichen von einem String zu entfernen und es einem anderen String hinzuzufügen, wobei für das Hinzufügen gilt: folgen zwei gleiche Zeichen hintereinander, so verschmelzen sie zu einem.
+
+```
+# Beispiel:
+s1 = '121'
+s2 = '1'
+s3 = ''
+
+# Zug 1-2 = letztes Zeichen von s1 zu s2 hinzufügen
+s1 = '12'
+s2 = '1'    # die hinzugfügte '1' ist mit der bestehenden '1' verschmolzen
+s3 = ''
+```
+
+Wieviele Züge benötigen wir, damit in s1 und s2 nur noch eine '1' oder '2' steht und s3 leer ist. Gib die Anzahl der Züge und eine mögliche Zugfolge an.
+
+```
+Beispiel:
+s1 = '121'
+s2 = '12'
+
+Zugfolge: 1-3 1-2 1-3 2-1 3-2  führt in 5 Zügen zu
+s1 = '2'
+s2 = '1'
 ```
