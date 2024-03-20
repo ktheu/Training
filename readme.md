@@ -11,7 +11,7 @@
 
 ### Algorithmen Training
 
-- [Search mit bfs](./search.ipynb)
+- [Search mit bfs](./search.md)
 
 
 
