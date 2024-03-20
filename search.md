@@ -3,6 +3,51 @@
 Zur Übung sollen alle folgenden Probleme mit der Breitensuche gelöst werden.
 Es gilt also, eine geeignete Modellierung zu finden und die Funktionen *nextstates* und *goaltest* zu implementieren.
 
+```
+from collections import deque
+def bfs(startstate):
+    frontier =  deque([startstate])
+    prev = {startstate:None}
+    while frontier:
+        state = frontier.popleft()
+        if goaltest(state):
+            return prev, state
+        for v in nextstates(state):
+            if v not in prev:
+                frontier.append(v)
+                prev[v] = state
+    return None, None
+
+def reconstructPath(prev,goalstate):
+    state = goalstate
+    path = []
+    while state is not None:
+        path.append(state)
+        state = prev[state]
+    path.reverse()
+    return path
+
+def nextstates(state):
+    '''
+    returns: Liste mit den möglichen Folgezuständen
+    '''
+    pass
+
+
+def goaltest(state):
+    '''
+    True, falls state ein goalstate ist
+    '''
+    pass
+
+
+
+# Aufruf:
+prev, state = bfs(startstate)
+path = reconstructPath(prev, state)
+
+```
+
 #### Aufgabe: MOO-Operations
 
 Gegeben ist ein String s der nur aus den Zeichen M und O besteht. Folgende Operationen sind möglich:
