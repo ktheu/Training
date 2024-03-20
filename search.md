@@ -47,6 +47,18 @@ prev, state = bfs(startstate)
 path = reconstructPath(prev, state)
 
 ```
+#### Aufgabe: Zahlenbaum
+Die Abbildung zeigt einen Zahlenbaum. Beginnend bei 0, was ist der kürzeste Weg zur 42?
+
+<img src='zahlenbaum.png'>
+
+```
+Anzahl Schritte: 3
+gehe von 0 nach 5
+gehe von 5 nach 8
+gehe von 8 nach 42
+```
+
 
 #### Aufgabe: MOO-Operations
 
