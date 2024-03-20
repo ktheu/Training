@@ -84,7 +84,7 @@ MOO
 ```
 
 
-#### Aufgabe: Die Girlande
+#### Aufgabe: Girlande
 
 Eine Girlande besteht aus Lampen, die vier verschiedene Farben haben können. Ein String s der Länge 4 und nur die Zeichen 1 bis 4 enthält, stellt eine Girlande dar.
 
@@ -151,3 +151,12 @@ Zugfolge: 1-3 1-2 1-3 2-1 3-2  führt in 5 Zügen zu
 s1 = '2'
 s2 = '1'
 ```
+
+#### Aufgabe: Flussüberquerung
+Auf der Westseite des Flusses sind jeweils 3 A und 3 B. Auf einer Überfahrt zur Ostseite muss mindestens ein A oder B auf dem Schiff sein. In das Schiff passen höchstens 2 rein. Falls auf einer Seite mindestens ein A ist, dürfen es dort nicht mehr B als A sein.
+
+Wie viele Überfahrten benötigt man, damit alle auf der Ostseite sind? Gib dazu eine mögliche Reihenfolge der Überfahrten aus.
+
+
+#### Aufgabe: Kohl, Wolf, Ziege
+Auf der einen Seite des Flusses sind Kohl, Wolf und Ziege und Mensch. Nur der Mensch kann die Fähre steuern und höchstens einen Gegenstand bzw Tier mitnehmen. Wolf und Ziege dürfen nie alleine auf einer Seite bleiben. Ziege und Kohl auch nicht. Wieviel Fahrten sind nötig? Gib eine mögliche Reihenfolge an.
