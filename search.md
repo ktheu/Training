@@ -85,18 +85,16 @@ Ermittle die Anzahl der Operationen und beschreibe einen Weg dorthin.
 # Beispiel 1
 s = 'MOMMOM'
 
-Anzahl Operationen: 4
+Lösung in 4 Schritten:
 Lösche erstes Zeichen von MOMMOM
 Lösche erstes Zeichen von OMMOM
 Lösche letztes Zeichen von MMOM
 Ändere letztes Zeichen von MOM auf O
-MOO
-
 
 # Beispiel 2
 s = 'MMOMOMOMM'
 
-Anzahl Operationen: 7
+Lösung in 7 Schritten:
 Lösche letztes Zeichen von MMOMOMOMM
 Lösche erstes Zeichen von MOMOMOMM
 Lösche erstes Zeichen von OMOMOMM
@@ -104,7 +102,6 @@ Lösche erstes Zeichen von MOMOMM
 Lösche erstes Zeichen von OMOMM
 Lösche letztes Zeichen von MOMM
 Ändere letztes Zeichen von MOM auf O
-MOO
 ```
 
 
