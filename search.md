@@ -2,6 +2,7 @@
 
 Zur Übung sollen alle folgenden Probleme mit der Breitensuche gelöst werden.
 Es gilt also, eine geeignete Modellierung zu finden und die Funktionen *nextstates* und *goaltest* zu implementieren.
+Die Funktion *getMove* beschreibt den Übergang von einem state zum nächsten mit sinnvollen Worten.
 
 ```
 from collections import deque
@@ -42,9 +43,22 @@ def goaltest(state):
 
 
 
-# Aufruf:
+def getMove(s1, s2):
+    '''
+    returns: die Beschreibung des Übergangs von state s1 zu state s2
+    '''
+    pass
+
+# Aufruf
+startstate = 
 prev, state = bfs(startstate)
-path = reconstructPath(prev, state)
+if prev is None:
+    print('Keine Lösung gefunden')
+else:
+    path = reconstructPath(prev, state)
+    print(f'Lösung in {len(path)-1} Schritten')
+    for i in range(len(path)-1):
+        print(getMove(path[i], path[i+1]))
 
 ```
 #### Aufgabe: Zahlenbaum
@@ -53,10 +67,10 @@ Die Abbildung zeigt einen Zahlenbaum. Beginnend bei 0, was ist der kürzeste Weg
 <img src='zahlenbaum.png'>
 
 ```
-Anzahl Schritte: 3
-gehe von 0 nach 5
-gehe von 5 nach 8
-gehe von 8 nach 42
+Lösung in 3 Schritten:
+Gehe von 0 nach 5.
+Gehe von 5 nach 8.
+Gehe von 8 nach 42.
 ```
 
 
