@@ -41,8 +41,6 @@ def goaltest(state):
     '''
     pass
 
-
-
 def getMove(s1, s2):
     '''
     returns: die Beschreibung des Übergangs von state s1 zu state s2
