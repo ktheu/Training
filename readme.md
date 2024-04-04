@@ -13,6 +13,8 @@
 
 - [Search mit bfs](./search.md)
 
+- [Backtracking](./backtracking.md)
+
 
 
 <!-- ### Jugendwettbewerb Informatik - Runde 3

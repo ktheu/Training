@@ -181,3 +181,6 @@ Wie viele Überfahrten benötigt man, damit alle auf der Ostseite sind? Gib dazu
 
 #### Aufgabe: Kohl, Wolf, Ziege
 Auf der einen Seite des Flusses sind Kohl, Wolf und Ziege und Mensch. Nur der Mensch kann die Fähre steuern und höchstens einen Gegenstand bzw Tier mitnehmen. Wolf und Ziege dürfen nie alleine auf einer Seite bleiben. Ziege und Kohl auch nicht. Wieviel Fahrten sind nötig? Gib eine mögliche Reihenfolge an.
+
+
+#### Aufgabe: [Codingame - Knights Jam](https://www.codingame.com/ide/puzzle/knights-jam)
