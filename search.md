@@ -174,32 +174,6 @@ s2 = '1'
 ```
 
 
-#### Aufgabe: Auto-Scrabble
-
-<img src='./autokennzeichen.png'>
-
-Die erwähnte Kürzelliste findest du [hier](./kuerzelliste.txt)
-
-Wende dein Programm auf folgende Beispiele an:
-
-
-
-```
-BIBER
-BUNDESWETTBEWERB
-CLINTON
-DONAUDAMPFSCHIFFFAHRTSKAPITÄNSMÜTZE
-ETHERNET
-INFORMATIK
-LLANFAIRPWLLGWYNGYLLGOGERYCHWYRNDROBWLLLLANTYSILIOGOGOGOCH
-RINDFLEISCHETIKETTIERUNGSÜBERWACHUNGSAUFGABENÜBERTRAGUNGSGESETZ
-SOFTWARE
-TRUMP
-TSCHÜSS
-VERKEHRSWEGEPLANUNGSBESCHLEUNIGUNGSGESETZ
-```
-
-
 #### Aufgabe: Flussüberquerung
 Auf der Westseite des Flusses sind jeweils 3 A und 3 B. Auf einer Überfahrt zur Ostseite muss mindestens ein A oder B auf dem Schiff sein. In das Schiff passen höchstens 2 rein. Falls auf einer Seite mindestens ein A ist, dürfen es dort nicht mehr B als A sein.
 
