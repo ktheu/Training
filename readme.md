@@ -11,6 +11,8 @@
 
 ### Algorithmen Training
 
+- [Rekursion](./rekursion.ipynb)
+
 - [Search mit bfs](./search.md)
 
 - [Backtracking](./backtracking.md)
